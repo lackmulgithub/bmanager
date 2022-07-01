@@ -2,3 +2,4 @@ Create an empty Code Igniter Version 3, without any extra packages.
 Create a database for this situation: there should be users and products. Let's imagine products are some stock with unlimited count but with ability to be activated or inactivated. Verified and active users can pick products with counts and prices for themselves from the products list. For example there is a product iPhone XXX in the list, some user attaches that product to his products list with quantity 5 and price 1000$ (per item). To understand better, imagine users are sellers. Later they can modify products quantities and prices.
 This point is just for database creation, no need to provide any functionality, so please create the database and fill with some dummy data. Products table should have these fields with fields id, title, description, image, status, timestamps.
 3.1. Count of all active and verified users.
+3.2. Count of active and verified users who have attached active products.
