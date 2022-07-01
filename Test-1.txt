@@ -3,3 +3,4 @@ Create a database for this situation: there should be users and products. Let's 
 This point is just for database creation, no need to provide any functionality, so please create the database and fill with some dummy data. Products table should have these fields with fields id, title, description, image, status, timestamps.
 3.1. Count of all active and verified users.
 3.2. Count of active and verified users who have attached active products.
+3.3. Count of all active products (just from products table).
