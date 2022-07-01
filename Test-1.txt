@@ -4,3 +4,4 @@ This point is just for database creation, no need to provide any functionality, 
 3.1. Count of all active and verified users.
 3.2. Count of active and verified users who have attached active products.
 3.3. Count of all active products (just from products table).
+3.4. Count of active products which don't belong to any user.
